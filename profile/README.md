@@ -42,16 +42,16 @@ NFTホルダーは消費者としてだけではありません。コーヒー�
 【販売数：価格帯：対象】
 
 <br> 
+
 0. 初期discord運営者数十名へgiveaway
 1.  ~100個：0.01eth：discordメンバー
 2. 101~500個：0.05eth：複数NFTプロジェクト購入者限定
 3. 501~1000個：0.1eth：複数NFTプロジェクト購入者限定
 4. 1001~2000個：0.12eth：複数NFTプロジェクト購入者限定
-![CoffeeStandDAO販売戦略図.png](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FPr81iRqKgIY0mTQTkZpDwZDm8Z73%2F6nlqMvpVs.png?alt=media)
 5. 2001~5000個：0.13eth：一般先行販売(WL)
 6. 5001~9000個：0.14eth：一般販売
 7. 9001~10000個：0.15eth：毎日3個を1年かけてオークション販売
-
+![CoffeeStandDAO販売戦略図.png](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FPr81iRqKgIY0mTQTkZpDwZDm8Z73%2FpY10H9kHJ.png?alt=media)
 
 ### 追加発行
 各コラボNFT1000個：giveaway：コラボNFTプロジェクトとCSD購入者限定  
